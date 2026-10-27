@@ -1,0 +1,7 @@
+test,compared,p_value,effect,significant_at_5pct
+"Recommended feed vs every-video watch ratio, same users (Wilcoxon signed-rank, two-sided)",0.975 vs 0.876 (1411 users),5.285859637090045e-114,mean lift +12.4% (95% CI +11.6% to +13.2%); 79% of users higher,True
+"Video length vs completion rate, per video (Spearman)","8,372 videos",0.0,rho = -0.96,True
+Completion rate differs across length buckets (Kruskal-Wallis),5 buckets,0.0,H = 6143,True
+"Daily watch minutes: full_active vs middle_active users (Mann-Whitney U, two-sided)",median 10.2 vs 12.3 min,0.026808530072168938,rank-biserial r = -0.24,True
+"Friends vs daily watch minutes, per user (Spearman)","7,176 users",6.615352264910948e-06,rho = -0.05,True
+Likes per play: ads vs normal videos (chi-square),4.6 vs 29.6 per 1k plays,0.0,ratio 0.16x,True

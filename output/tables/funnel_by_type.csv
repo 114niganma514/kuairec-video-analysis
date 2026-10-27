@@ -1,0 +1,3 @@
+video_type,videos,plays,play_rate,completion_rate,likes_per_1k,comments_per_1k,follows_per_1k,shares_per_1k,likes
+NORMAL,10699,32242402455.0,0.9993,0.5403,29.6,1.39,3.22,0.86,954424117.0
+AD,29,96135996.0,1.04,0.0549,4.62,0.07,0.53,0.03,444510.0

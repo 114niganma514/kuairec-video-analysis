@@ -1,0 +1,5 @@
+user_active_degree,users,avg_active_days,watch_min_per_active_day,completion_rate,watch_time_share
+middle_active,28,18.0,12.5,0.327,0.0031
+high_active,938,23.6,12.2,0.3749,0.1395
+UNKNOWN,118,21.1,11.8,0.3664,0.0147
+full_active,6092,26.8,9.8,0.3355,0.8427
